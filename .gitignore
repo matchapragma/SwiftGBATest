@@ -1,0 +1,6 @@
+
+/.qtc_clangd
+/build
+*.gba
+*.sav
+*.elf
