@@ -4,3 +4,10 @@
 *.gba
 *.sav
 *.elf
+SwiftGBATest.cflags
+SwiftGBATest.config
+SwiftGBATest.creator
+SwiftGBATest.creator.user
+SwiftGBATest.cxxflags
+SwiftGBATest.files
+SwiftGBATest.includes
