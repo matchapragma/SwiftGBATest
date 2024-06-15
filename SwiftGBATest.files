@@ -1,6 +1,0 @@
-README.md
-include/someclass.hpp
-src/main.cpp
-swift-src/BridgingHeader.hpp
-swift-src/main.swift
-swift-src/module.modulemap
