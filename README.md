@@ -95,6 +95,6 @@ See below relevant WWDC sessions which go into more detail about Swift Embedded,
 If you've never written or seen Swift code, please watch this session! It explains everything you need to know and the design philosophies of the Swift language.<br>
 https://www.youtube.com/watch?v=boiLzazJ9j4
 
-#### WWDC 2024: Go small with Embedded Swift | Apple
+#### WWDC24: Go small with Embedded Swift | Apple
 This session introduces Swift Embedded, demonstrated by creating a HomeKit accessory using an ESP32C6 development board.<br>
 https://www.youtube.com/watch?v=LqxbsADqDI4
