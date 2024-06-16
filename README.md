@@ -2,6 +2,8 @@
 
 It's WWDC season! Swift Embedded was one of the new things shown this week that excited me the most, so I wanted to try and get it running on a console I love programming on: the GameBoy Advance.
 
+I've left the Issues tab open in case I made a pretty big error and I haven't noticed, or someone knows a solution to one of the issues I encountered (they were pretty funky issues).
+
 This is a very meaty README, please use this handy dandy Table of Contents™ so you don't get lost:
 
 - [The Project](#the-project)
